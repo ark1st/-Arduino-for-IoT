@@ -3,7 +3,7 @@ int main() {
     int input = 0;
     double num1, num2, result;
 
-    printf("=======¸Þ´º======= : ");
+    printf("=======¸Þ´º=======\n");
     printf("1. µ¡¼À, 2. »¬¼À, 3. °ö¼À, 4. ³ª´°¼À : ");
     scanf("%d",&input);
 
@@ -26,7 +26,7 @@ int main() {
         break;
     }
 
-    printf("°á°ú : %f",result);
+    printf("\n°á°ú : %f",result);
 
     
 }

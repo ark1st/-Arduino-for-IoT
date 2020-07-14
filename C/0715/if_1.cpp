@@ -5,10 +5,10 @@ int main() {
     scanf("%d",&input);
 
     if (input%3 == 0) {
-        printf("%d는 3의 배수 입니다.",&input);
+        printf("\n%d는 3의 배수 입니다.",&input);
     }
     else {
-        printf("%d는 3의 배수가 아닙니다.",&input);
+        printf("\n%d는 3의 배수가 아닙니다.",&input);
     }
 }
 

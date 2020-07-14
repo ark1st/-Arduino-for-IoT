@@ -3,7 +3,7 @@ int main() {
     int input = 0;
     double num1, num2, result;
 
-    printf("=======메뉴======= : ");
+    printf("=======메뉴=======\n");
     printf("1. 덧셈, 2. 뺄셈, 3. 곱셈, 4. 나눗셈 : ");
     scanf("%d",&input);
 
@@ -23,9 +23,9 @@ int main() {
         result = num1 / num2;
     }
     else {
-    printf("잘못된 입력입니다..");
+    printf("\n잘못된 입력입니다..");
     }       
 
-    printf("결과 : %f",result);
+    printf("\n결과 : %f",result);
 }
 

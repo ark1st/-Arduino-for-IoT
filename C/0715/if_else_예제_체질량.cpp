@@ -2,7 +2,7 @@
 int main() {
     double num1, num2, result;
 
-    printf("=======체질량 계산 프로그램======= : ");
+    printf("=======체질량 계산 프로그램=======\n");
     printf("키와 몸무게를 입력하세요 ");
     scanf("%f %f",&num1, &num2);
 
@@ -32,6 +32,6 @@ int main() {
         }
     }
 
-    printf("결과 : %f",result);
+    printf("\n결과 : %f",result);
 }
 

@@ -6,10 +6,10 @@ int main() {
     scanf("%d",&input);
 
     if (pw == input) {
-        printf("비밀번호가 맞았습니다.");
+        printf("\n비밀번호가 맞았습니다.");
     }
     else {
-        printf("비밀번호가 틀렸습니다.");
+        printf("\n비밀번호가 틀렸습니다.");
     }
 }
 

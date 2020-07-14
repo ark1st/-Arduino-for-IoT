@@ -2,7 +2,7 @@
 int main() {
     int num;
 
-    printf("=======MENU======= : ");
+    printf("=======MENU=======\n");
     printf("1부터 3의 숫자를 입력하세요 ");
     scanf("%d", &num);
 
@@ -22,9 +22,5 @@ int main() {
         break;
     }
 
-
-
-
-    
 }
 
