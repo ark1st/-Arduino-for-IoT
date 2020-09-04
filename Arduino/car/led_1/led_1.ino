@@ -6,7 +6,7 @@ void setup() {
 
 void loop() { 
     digitalWrite(pinnum, HIGH);
-    delay(1000);
+    delay(30);
     digitalWrite(pinnum, LOW);
-    delay(1000);
+    delay(30);
 }   
