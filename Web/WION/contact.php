@@ -19,16 +19,16 @@
 
 		<!-- Header -->
 			<header id="header" class="skel-layers-fixed">
-				<h1><a href="index.html">대학선교국</a></h1>
+				<h1><a href="index.php">대학선교국</a></h1>
 				<a href="#nav">메뉴</a>
 			</header>
 
 		<!-- Nav -->
 			<nav id="nav">
 				<ul class="links">
-					<li><a href="index.html">홈</a></li>
-					<li><a href="registration.html">등록</a></li>
-					<li><a href="contact.html">소개 및 연락처</a></li>
+					<li><a href="index.php">홈</a></li>
+					<li><a href="registration.php">등록</a></li>
+					<li><a href="contact.php">소개 및 연락처</a></li>
 				</ul>
 			</nav>
 
